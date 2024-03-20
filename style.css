@@ -6,6 +6,10 @@ p {
     .police-center{
         text-align center;
     }
+
+    .police-LA{
+        text-align center;
+    }
     
     .police-vcenter{
         vertical-align middle;
