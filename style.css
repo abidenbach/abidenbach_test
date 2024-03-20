@@ -1,12 +1,15 @@
 p {
     line-height 18px;
-     font-size largr;
+     font-size larger;
     }
     
     .police-center{
         text-align center;
     }
-    
+
+    .police-LE{
+        text-align center;
+    }
     .police-vcenter{
         vertical-align middle;
     }
